@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/trip-website/static/css/main.1b30a1f9.css",
+    "main.js": "/trip-website/static/js/main.8f80d5bd.js",
+    "static/media/video.mp4": "/trip-website/static/media/video.6de29c0edf2599f91200.mp4",
+    "static/media/bimage1.jpg": "/trip-website/static/media/bimage1.699f56ae21f98f9f6906.jpg",
+    "static/media/pimage4.jpg": "/trip-website/static/media/pimage4.25eaf35cfbace0f77eca.jpg",
+    "static/media/bimage4.jpg": "/trip-website/static/media/bimage4.99822d0197fc8a8d6c47.jpg",
+    "static/media/customers.jpg": "/trip-website/static/media/customers.a87bad25e6a0b368c6dd.jpg",
+    "static/media/pimage2.jpg": "/trip-website/static/media/pimage2.d8204a3455c3820e5914.jpg",
+    "static/media/bgimage.jpg": "/trip-website/static/media/bgimage.0bcc246e986499ae000e.jpg",
+    "static/media/map.jpg": "/trip-website/static/media/map.c0d55101fe622687fd1e.jpg",
+    "static/media/climbing.jpg": "/trip-website/static/media/climbing.1ab9ab46c1b471f9a35b.jpg",
+    "static/media/bimage3.jpg": "/trip-website/static/media/bimage3.5134051edab8af1c5573.jpg",
+    "static/media/bimage2.jpg": "/trip-website/static/media/bimage2.bb34198606a14b1efbd8.jpg",
+    "static/media/oimage3.jpg": "/trip-website/static/media/oimage3.89bff040b8ae399f411c.jpg",
+    "static/media/pimage1.jpg": "/trip-website/static/media/pimage1.966f5694be8838d6b9fa.jpg",
+    "static/media/oimage1.jpg": "/trip-website/static/media/oimage1.ef30448bc9dbfbb4b508.jpg",
+    "static/media/pimage3.jpg": "/trip-website/static/media/pimage3.e0e5f2af1fdf17a03684.jpg",
+    "static/media/oimage2.jpg": "/trip-website/static/media/oimage2.26cf2d4a4361580c6fd8.jpg",
+    "static/media/mountain.jpg": "/trip-website/static/media/mountain.a1b40a83c4d626596a61.jpg",
+    "index.html": "/trip-website/index.html",
+    "main.1b30a1f9.css.map": "/trip-website/static/css/main.1b30a1f9.css.map",
+    "main.8f80d5bd.js.map": "/trip-website/static/js/main.8f80d5bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b30a1f9.css",
+    "static/js/main.8f80d5bd.js"
+  ]
+}
