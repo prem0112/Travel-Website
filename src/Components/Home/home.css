@@ -11,7 +11,7 @@
 }
 
 .home {
-  height: 130vh;
+  height: 70vh;
   background: linear-gradient(rgba(33, 33, 33, 0.422), rgba(33, 33, 33, 0.422)), url(../../Assets/bgimage.jpg);
   background-position: center;
   background-size: cover;
